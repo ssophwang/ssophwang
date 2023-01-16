@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# Hi there, I'm Sophia
+# Hi there, I'm Sophia 👋
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -13,5 +13,14 @@
   </a>
 </div>
 
+I'm a high school junior that enjoys coding and open-source. I have a small army of Discord Bots (all made using Discord.py) and am currently getting into Rust! I also want to create a personal website but I'm struggling to find the time. 😅
+
+Other than programming, I also enjoy art and photography, a lot of which you can find on my [Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)! I also play viola and am really into math and 3D printing. My friends would probably describe me as an all-around nerd and goofball :P
+
+### How to reach me:
+- Email: s.sophi.w@gmail.com
+- Discord: Saph#6803
+
+### GitHub Stats
 ![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sswangg&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sswangg&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
