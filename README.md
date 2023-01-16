@@ -17,7 +17,7 @@ I'm a high school junior that enjoys coding and open-source. I have a small army
 
 I speak English, Chinese, Python, C++, LaTex, and Markdown fluently, and HTML/CSS, Java, and Rust conversationally. I love APIs, integrating different services together, and making Discord bots.
 
-Other than programming, I enjoy art and photography, a lot of which you can find on my [Instagram](https://www.instagram.com/5pectating_5pecter/)! I also play viola and am really into math and 3D printing. My friends would probably describe me as an all-around nerd and goofball :P
+Other than programming, I enjoy art and photography, (a lot of which you can find on my Instagram)! I also play viola and am really into math and 3D printing. My friends would probably describe me as an all-around nerd and goofball :P
 
 ### How to reach me:
 - Email: s.sophi.w@gmail.com
