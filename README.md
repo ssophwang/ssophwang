@@ -13,7 +13,9 @@
   </a>
 </div>
 
-I'm a high school junior that enjoys coding and open-source. I have a small army of Discord Bots (all made using Discord.py) and am currently getting into Rust! I also want to create a personal website but I'm struggling to find the time. 😅
+I'm a high school junior that enjoys coding and open-source. I have a small army of Discord Bots (all made using Discord.py) and am currently getting into Rust! I also want to create a personal website but I'm struggling to find the time. 😅 
+
+I speak English, Chinese, Python, C++, LaTex, and Markdown fluently, and HTML/CSS, Java, and Rust conversationally.
 
 Other than programming, I enjoy art and photography, a lot of which you can find on my [Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)! I also play viola and am really into math and 3D printing. My friends would probably describe me as an all-around nerd and goofball :P
 
@@ -24,5 +26,5 @@ Other than programming, I enjoy art and photography, a lot of which you can find
 Feel free to contact me anytime to discuss anything (or debate philosphy).
 
 ### GitHub Stats
-![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sswangg&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sswangg&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![Sophia's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sswangg&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sswangg&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
