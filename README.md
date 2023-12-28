@@ -13,15 +13,13 @@
   </a>
 </div>
 
-I'm a high school junior that enjoys coding and open-source. I have a small army of Discord Bots (all made using Discord.py) and am currently getting into Rust! I also want to create a personal website but I'm struggling to find the time. 😅 
+I love python one-liners and random APIs. Haven't been programming much lately :(
 
-I speak English, Chinese, Python, C++, LaTex, and Markdown fluently, and HTML/CSS, Java, and Rust conversationally. I love APIs, integrating different services together, and making Discord bots.
-
-Other than programming, I enjoy art and photography, (a lot of which you can find on my Instagram)! I also play viola and am really into math and 3D printing. My friends would probably describe me as an all-around nerd and goofball :P
+Have been doing lots of math though!
 
 ### How to reach me:
 - Email: s.sophi.w@gmail.com
-- Discord: Saph#6803
+- Discord: .saph.
 
 Feel free to contact me anytime to discuss anything (or debate philosphy).
 
