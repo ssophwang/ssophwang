@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=CE5C5F&vCenter=true&width=520&height=40&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=CE5C5F&vCenter=true&width=520&height=60&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # Hi there, I'm Sophia 👋
 
 I love python one-liners and random APIs.
