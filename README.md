@@ -5,7 +5,6 @@ I love python one-liners and random APIs.
 
 ### How to reach me:
 - Email: s.sophi.w@gmail.com
-- Discord: .saph.
 
 Feel free to contact me anytime.
 
